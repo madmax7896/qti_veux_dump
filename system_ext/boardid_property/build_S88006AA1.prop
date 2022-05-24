@@ -1,0 +1,7 @@
+# ADDITIONAL CUSTOM PROPERTIES
+ro.product.wt.boardid=S88006AA1
+ro.miui.support_fingerprint=true
+ro.miui.product.home=com.miui.home
+ro.product.subproject=S88006AA1
+ro.product.cert=2201116SG
+ro.product.system_ext.model=2201116SG

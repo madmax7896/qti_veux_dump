@@ -1,0 +1,7 @@
+# ADDITIONAL CUSTOM PROPERTIES
+ro.product.wt.boardid=S88107BA1
+ro.miui.support_fingerprint=true
+ro.miui.product.home=com.mi.android.globallauncher
+ro.product.subproject=S88107BA1
+ro.product.cert=2201116PI
+ro.product.system_ext.model=2201116PI
