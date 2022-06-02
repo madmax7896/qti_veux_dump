@@ -1,0 +1,11 @@
+system_ext/priv-app/Settings/Settings.apk
+system/system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
+system/system/apex/com.android.vndk.current.apex
+vendor/lib64/camera/components/com.qti.node.mialgocontrol.so
+modem.img
+boot.img
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
